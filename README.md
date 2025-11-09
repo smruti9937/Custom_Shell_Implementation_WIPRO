@@ -3,7 +3,7 @@
 A modular UNIX-like command shell written in modern C++.  
 Supports built-ins, external commands, pipes, I/O redirection, background jobs, and signal handling.
 
-![screenshot](docs/screenshot.png)
+
 
 ---
 
